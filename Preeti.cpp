@@ -4,5 +4,5 @@
 void main()
 {
 cout<<"GOOD DAY";
-
+cout<<"GOOD NIGHT";
 }
